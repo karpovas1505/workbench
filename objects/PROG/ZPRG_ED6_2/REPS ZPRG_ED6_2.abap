@@ -6,3 +6,4 @@
 REPORT ZPRG_ED6_2.
 
 WRITE 'This is OpenSap cource'.
+* Remote change
